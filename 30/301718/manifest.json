@@ -1,0 +1,1 @@
+{"code": "301718", "name": "通则康威", "market": "sz", "asset_type": "stock_sz", "shard": "30", "updated_at": "2026-10-14T02:32:59.288340+08:00", "datasets": {"money/quote.json": {"n": 1, "source": "push2his stock/get"}}}
